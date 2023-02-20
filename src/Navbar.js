@@ -15,7 +15,7 @@ export default function Navbar() {
             size="large"
             edge="start"
             color="inherit"
-            aria-label="menu"
+            aria-label="men"
             sx={{ mr: 2 }}
           >
             <MenuIcon />
